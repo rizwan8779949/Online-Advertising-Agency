@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-ASPNETDB",
+      "appliesTo": "App_Data/ASPNETDB.MDF",
+      "type": "launch"
+    }
+  ]
+}
